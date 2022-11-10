@@ -22,3 +22,12 @@ then
        
 
 fi
+
+if [ $icecream = "vanilla" ]
+then
+   echo "Nice! But vanilla is full of flavor!"
+   elif [ $icecream = "strawberry" ]
+   then 
+      echo "Nice! Now add some sprinkles and whipped cream!"
+      
+      fi
